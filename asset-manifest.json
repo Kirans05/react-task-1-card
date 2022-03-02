@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-task-1-card/static/css/main.87b541ac.css",
+    "main.js": "/react-task-1-card/static/js/main.a1d9cd9e.js",
+    "index.html": "/react-task-1-card/index.html",
+    "main.87b541ac.css.map": "/react-task-1-card/static/css/main.87b541ac.css.map",
+    "main.a1d9cd9e.js.map": "/react-task-1-card/static/js/main.a1d9cd9e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87b541ac.css",
+    "static/js/main.a1d9cd9e.js"
+  ]
+}
